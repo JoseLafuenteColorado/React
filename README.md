@@ -7,7 +7,9 @@
    
 2. Tic-Tac-Toe
 
-3. Enunciado sin determinar
+3. Mouse follower
+
+4. Prueba técnica gatitos
 
 
 
