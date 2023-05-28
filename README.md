@@ -1,7 +1,7 @@
 #   REACT
 ## José Lafuente Colorado
 
-### Ejercios de aprendizaje de REACT
+### Ejercicios de aprendizaje de REACT
 
 1. Hola Mundo
    
